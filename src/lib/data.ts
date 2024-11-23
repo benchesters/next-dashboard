@@ -916,144 +916,89 @@ export const announcementsData = [
 ];
 
 
-// YOU SHOULD CHANGE THE DATES OF THE EVENTS TO THE CURRENT DATE TO SEE THE EVENTS ON THE CALENDAR
 export const calendarEvents = [
   {
     title: "Math",
     allDay: false,
-    start: new Date(2024, 10, 19, 8, 0), // November 19, 2024, 8:00 AM
-    end: new Date(2024, 10, 19, 8, 45), // November 19, 2024, 8:45 AM
+    start: new Date(2024, 10, 18, 8, 0), // Monday, November 18, 2024
+    end: new Date(2024, 10, 18, 8, 45), // Monday, November 18, 2024
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2024, 10, 20, 9, 0),
-    end: new Date(2024, 10, 20, 9, 45),
+    start: new Date(2024, 10, 18, 9, 0), // Monday, November 18, 2024
+    end: new Date(2024, 10, 18, 9, 45), // Monday, November 18, 2024
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 10, 21, 10, 0),
-    end: new Date(2024, 10, 21, 10, 45),
+    start: new Date(2024, 10, 19, 10, 0), // Tuesday, November 19, 2024
+    end: new Date(2024, 10, 19, 10, 45), // Tuesday, November 19, 2024
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2024, 10, 12, 11, 0),
-    end: new Date(2024, 10, 12, 11, 45),
+    start: new Date(2024, 10, 19, 11, 0), // Tuesday, November 19, 2024
+    end: new Date(2024, 10, 19, 11, 45), // Tuesday, November 19, 2024
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2024, 10, 12, 13, 0),
-    end: new Date(2024, 10, 12, 13, 45),
+    start: new Date(2024, 10, 20, 13, 0), // Wednesday, November 20, 2024
+    end: new Date(2024, 10, 20, 13, 45), // Wednesday, November 20, 2024
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 10, 12, 14, 0),
-    end: new Date(2024, 10, 12, 14, 45),
+    start: new Date(2024, 10, 20, 14, 0), // Wednesday, November 20, 2024
+    end: new Date(2024, 10, 20, 14, 45), // Wednesday, November 20, 2024
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2024, 10, 13, 9, 0),
-    end: new Date(2024, 10, 13, 9, 45),
+    start: new Date(2024, 10, 21, 9, 0), // Thursday, November 21, 2024
+    end: new Date(2024, 10, 21, 9, 45), // Thursday, November 21, 2024
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 10, 13, 10, 0),
-    end: new Date(2024, 10, 13, 10, 45),
+    start: new Date(2024, 10, 21, 10, 0), // Thursday, November 21, 2024
+    end: new Date(2024, 10, 21, 10, 45), // Thursday, November 21, 2024
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2024, 10, 13, 11, 0),
-    end: new Date(2024, 10, 13, 11, 45),
+    start: new Date(2024, 10, 21, 11, 0), // Thursday, November 21, 2024
+    end: new Date(2024, 10, 21, 11, 45), // Thursday, November 21, 2024
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 10, 13, 14, 0),
-    end: new Date(2024, 10, 13, 14, 45),
+    start: new Date(2024, 10, 21, 14, 0), // Thursday, November 21, 2024
+    end: new Date(2024, 10, 21, 14, 45), // Thursday, November 21, 2024
   },
   {
     title: "Math",
     allDay: false,
-    start: new Date(2024, 10, 14, 8, 0),
-    end: new Date(2024, 10, 14, 8, 45),
+    start: new Date(2024, 10, 22, 8, 0), // Friday, November 22, 2024
+    end: new Date(2024, 10, 22, 8, 45), // Friday, November 22, 2024
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 10, 14, 10, 0),
-    end: new Date(2024, 10, 14, 10, 45),
+    start: new Date(2024, 10, 22, 10, 0), // Friday, November 22, 2024
+    end: new Date(2024, 10, 22, 10, 45), // Friday, November 22, 2024
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2024, 10, 14, 13, 0),
-    end: new Date(2024, 10, 14, 13, 45),
+    start: new Date(2024, 10, 22, 13, 0), // Friday, November 22, 2024
+    end: new Date(2024, 10, 22, 13, 45), // Friday, November 22, 2024
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 10, 14, 14, 0),
-    end: new Date(2024, 10, 14, 14, 45),
-  },
-  {
-    title: "English",
-    allDay: false,
-    start: new Date(2024, 10, 15, 9, 0),
-    end: new Date(2024, 10, 15, 9, 45),
-  },
-  {
-    title: "Biology",
-    allDay: false,
-    start: new Date(2024, 10, 15, 10, 0),
-    end: new Date(2024, 10, 15, 10, 45),
-  },
-  {
-    title: "Physics",
-    allDay: false,
-    start: new Date(2024, 10, 15, 11, 0),
-    end: new Date(2024, 10, 15, 11, 45),
-  },
-  {
-    title: "History",
-    allDay: false,
-    start: new Date(2024, 10, 15, 14, 0),
-    end: new Date(2024, 10, 15, 14, 45),
-  },
-  {
-    title: "Math",
-    allDay: false,
-    start: new Date(2024, 10, 16, 8, 0),
-    end: new Date(2024, 10, 16, 8, 45),
-  },
-  {
-    title: "English",
-    allDay: false,
-    start: new Date(2024, 10, 16, 9, 0),
-    end: new Date(2024, 10, 16, 9, 45),
-  },
-  {
-    title: "Physics",
-    allDay: false,
-    start: new Date(2024, 10, 16, 11, 0),
-    end: new Date(2024, 10, 16, 11, 45),
-  },
-  {
-    title: "Chemistry",
-    allDay: false,
-    start: new Date(2024, 10, 16, 13, 0),
-    end: new Date(2024, 10, 16, 13, 45),
-  },
-  {
-    title: "History",
-    allDay: false,
-    start: new Date(2024, 10, 16, 14, 0),
-    end: new Date(2024, 10, 16, 14, 45),
+    start: new Date(2024, 10, 22, 14, 0), // Friday, November 22, 2024
+    end: new Date(2024, 10, 22, 14, 45), // Friday, November 22, 2024
   },
 ];
