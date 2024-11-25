@@ -2,8 +2,8 @@
 
 export let role = "admin";
 
-export const teachersData = [
-  {
+export const teachersData = [ 
+  { 
     id: 1,
     teacherId: "1234567890",
     name: "John Doe",
