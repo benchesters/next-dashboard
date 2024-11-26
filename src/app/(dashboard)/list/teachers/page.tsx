@@ -29,7 +29,7 @@ const columns = [
   },
   {
   header:"Subjects", 
-  accessor:"teacherId",
+  accessor:"subjects",
   className: "hidden md:table-cell",
   },
   {
